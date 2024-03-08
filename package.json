@@ -1,0 +1,23 @@
+{
+  "name": "coffeeconverseai",
+  "version": "1.0.0",
+  "description": "CoffeeConverse is a conversational AI project designed to facilitate seamless communication between users and web services using natural language processing techniques. Our aim is to streamline user interactions and enhance user experience across various platforms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vad02/CoffeeConverseAI.git"
+  },
+  "dependencies": {
+    "chainchatvv": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vad02/CoffeeConverseAI/issues"
+  },
+  "homepage": "https://github.com/Vad02/CoffeeConverseAI#readme"
+}
